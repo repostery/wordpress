@@ -1,4 +1,4 @@
-# wordpress
+### wordpress
 # sudo apt update
 update the list of available packages
 # sudo apt upgrade
